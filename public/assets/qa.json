@@ -1,0 +1,53 @@
+[
+  {
+    "q": "Merhaba.",
+    "a": "Merhaba,sana nasıl yardımcı olabilirim?",
+    "anim": "Wave"
+  },
+  {
+    "q": "Bana kendini tanıtır mısın?",
+    "a": "Tabikide,ben 3d modelli ağız senkronizasyonu olan yardımcı bir asistanım."
+  },
+  {
+    "q": "Sana neler sorabilirim?",
+    "a": "Bana sorabilceğin soruların hepsi soldaki listede var",
+    "anim": "Thinking"
+  },
+  {
+    "q": "Hobilerin neler?",
+    "a": "Dans etmeyi ve rol yapmayı çok severim."
+  },
+  {
+    "q": "Seni vurdum!",
+    "a": "hayıııııııırr! neden yaptın bunu,ben seni çok sevmiştim",
+    "anim": "Dying"
+  },
+  {
+    "q": "Dans edebilir misin?",
+    "a": "Tabikide dans edebilirim",
+    "anim": "Dance"
+  },
+   {
+    "q": "Bana bir espiri yapar mısın?",
+    "a": "Türkiye’nin en yeni şehri hangisidir?. Nevşehir",
+    "anim":"Laughing"
+  },
+  {
+    "q": "İlk espirin çok güzeldi başka var mı?",
+    "a": "Örümcek adam ağ atamıyormuş neden?. Çünkü ağ bağlantısı kopmuş.",
+    "anim":"Laughing"
+  },
+  {
+    "q": "Beni KoçSistem hakkında kısaca bilgilendirir misin?",
+    "a": "KoçSistem, Koç Holding’e bağlı, Türkiye’nin önde gelen bilgi teknolojileri ve dijital dönüşüm şirketlerinden biridir.1945 yılında kurulmuştur.Şirket; yazılım geliştirme,siber güvenlik gibi daha birçok alanda hizmet sunar."
+  },
+  {
+    "q": "Termodinamik nedir? Kısaca anlatır mısın?",
+    "a": "Tabikide.Termodinamik; ısı, iş, sıcaklık ve enerji arasındaki ilişki ile ilgilenen bilim dalıdır.Basit bir ifadeyle termodinamik, enerjinin bir yerden başka bir yere ve bir biçimden başka bir biçime transferi ile ilgilenir."
+  },
+  {
+    "q": "Şarkı söyler misin?",
+    "a": "Söylemesem ikimiz içinde daha iyi olur"
+  }
+  
+]

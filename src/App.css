@@ -1,0 +1,22 @@
+
+.App {
+  text-align: center;
+}
+/* Genel body stil ayarları */
+body {
+  margin: 0;
+  padding: 0;
+
+  /* Arka plan resmi */
+  background-image: url('/path/to/your/background.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+
+/* Link rengi */
+.App-link {
+  color: #61dafb;
+}
